@@ -16,6 +16,7 @@ body {
    display : inline-flex;
    margin : 50px;
    cursor : pointer;
+     color : #ffffff;
 }
 .active {
        color : #19dafa ! important ;
