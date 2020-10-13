@@ -15,7 +15,6 @@ h1{
    }
 .bg{
     background-image :url(https://user-images.githubusercontent.com/71831106/95840470-cdc28c00-0d61-11eb-89c1-0c2dc5e34146.jpeg);
-  -webkit-background-size : cover;
     background-size : cover;
     background-repeat : no-repeat;
     background-positon : center center;
