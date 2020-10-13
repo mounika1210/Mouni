@@ -4,11 +4,11 @@
 font-family : sans-serif;
 }
 body {
-           width: 100%;
-           size: 100% ;
+           
            background-image : url(https://user-images.githubusercontent.com/71831106/95833340-1a559980-0d59-11eb-859c-a3aabffed106.jpeg);
            background-size : cover;
            background-position : center;
+           background-repeat : no-repeat;
            font-family : sans-serif;
 }
 .menu {
