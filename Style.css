@@ -3,13 +3,13 @@
      padding :0;
 font-family : sans-serif;
 }
-body {
-           
-           background-image : url(https://user-images.githubusercontent.com/71831106/95833340-1a559980-0d59-11eb-859c-a3aabffed106.jpeg);
-           background-size : cover;
-           background-position : center;
-           background-repeat : no-repeat;
-    }     
+section{
+     padding : 0 100px;
+     background-image :url( 
+     height : 100vh;
+     display : flex;
+     text-items :center;
+}
 .menu {
           background-color : #40455a;
 }
@@ -25,5 +25,4 @@ body {
 .active {
        color : #fff ! important ;
 }
-
 
