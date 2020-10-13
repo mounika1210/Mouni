@@ -1,11 +1,11 @@
-*{
+body{
      margin : 0;
      padding :0;
 font-family : sans-serif;
 }
 section{
      padding : 0 100px;
-     background-image :url(https://user-images.githubusercontent.com/71831106/95836662-58ed5300-0d5d-11eb-909f-d6557ddcf0ed.jpeg);
+     background:url(https://user-images.githubusercontent.com/71831106/95836662-58ed5300-0d5d-11eb-909f-d6557ddcf0ed.jpeg);
      height : 100vh;
      display : flex;
      text-items :center;
